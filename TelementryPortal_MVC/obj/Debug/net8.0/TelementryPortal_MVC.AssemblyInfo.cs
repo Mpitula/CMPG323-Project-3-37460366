@@ -16,7 +16,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("TelementryPortal_MVC")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+dc57b5be2a7362beac5cb0146c925c8ae85f2142")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d64d040286d0004bc3cc07cb542d3d0a614408fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("TelementryPortal_MVC")]
 [assembly: System.Reflection.AssemblyTitleAttribute("TelementryPortal_MVC")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
