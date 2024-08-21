@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "o0KCVdHe1XQ=",
   "success": true,
   "projectFilePath": "C:\\Users\\aussc\\OneDrive\\Desktop\\NWU_Tech_Trends_TelemetryPortal_MVC\\NWU_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj",
+=======
+  "dgSpecHash": "XzADWRFO7og=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\aussc\\Source\\Repos\\CMPG323-Project-3-37460366\\NWU_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj",
+>>>>>>> Initial commit
   "expectedPackageFiles": [
     "C:\\Users\\aussc\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\aussc\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
