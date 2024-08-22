@@ -8601,11 +8601,35 @@
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\SL301\\Source\\Repos\\CMPG323-Project-3-37460366\\NWU_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj",
       "projectName": "TelemetryPortal_MVC",
       "projectPath": "C:\\Users\\SL301\\Source\\Repos\\CMPG323-Project-3-37460366\\NWU_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj",
       "packagesPath": "C:\\Users\\SL301\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\SL301\\Source\\Repos\\CMPG323-Project-3-37460366\\NWU_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\obj\\",
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+      "projectUniqueName": "C:\\Users\\aussc\\OneDrive\\Desktop\\NWU_Tech_Trends_TelemetryPortal_MVC\\NWU_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj",
+=======
+      "projectUniqueName": "C:\\Users\\aussc\\Source\\Repos\\CMPG323-Project-3-37460366\\NWU_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj",
+>>>>>>> Initial commit
+      "projectName": "TelemetryPortal_MVC",
+      "projectPath": "C:\\Users\\aussc\\Source\\Repos\\CMPG323-Project-3-37460366\\NWU_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj",
+      "packagesPath": "C:\\Users\\aussc\\.nuget\\packages\\",
+<<<<<<< HEAD
+      "outputPath": "C:\\Users\\aussc\\OneDrive\\Desktop\\NWU_Tech_Trends_TelemetryPortal_MVC\\NWU_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\obj\\",
+=======
+      "projectUniqueName": "C:\\Users\\aussc\\Source\\Repos\\CMPG323-Project-3-37460366\\NWU_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj",
+      "projectName": "TelemetryPortal_MVC",
+      "projectPath": "C:\\Users\\aussc\\Source\\Repos\\CMPG323-Project-3-37460366\\NWU_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj",
+      "packagesPath": "C:\\Users\\aussc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\aussc\\Source\\Repos\\CMPG323-Project-3-37460366\\NWU_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\obj\\",
+>>>>>>> Initial commit
+=======
+      "outputPath": "C:\\Users\\aussc\\Source\\Repos\\CMPG323-Project-3-37460366\\NWU_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\obj\\",
+>>>>>>> Initial commit
+>>>>>>> de497b01f31f6075defc34850130c1d32665f9e5
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
