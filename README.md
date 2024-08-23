@@ -15,8 +15,8 @@ Before setting up the project, ensure that the following software and resources 
 ## Setup Instructions
 
 ### 1. Clone the Repository
--First, clone the repository to your local machine
--Using Visual Studio 2022 Community Edition
+- First, clone the repository to your local machine
+- Using Visual Studio 2022 Community Edition
 
 ### 2. Open the Project in Visual Studio
 - Open Visual Studio 2022.
