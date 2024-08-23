@@ -32,7 +32,6 @@ Before setting up the project, ensure that the following software and resources 
 
 - Press F5 in Visual Studio or click on the Start button.
 - The application will launch in your default web browser
-- 
 ### 5. Publish the Application to Azure
 **To deploy the application to Azure:**
 
