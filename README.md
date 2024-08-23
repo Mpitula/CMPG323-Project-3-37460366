@@ -19,27 +19,34 @@ Before setting up the project, ensure that the following software and resources 
 -Using Visual Studio 2022 Community Edition
 
 ### 2. Open the Project in Visual Studio
--Open Visual Studio 2022.
--Select File > Open > Project/Solution.
--Navigate to the cloned repository and select the .sln file to open the solution.
+- Open Visual Studio 2022.
+- Select File > Open > Project/Solution.
+- Navigate to the cloned repository and select the .sln file to open the solution.
 
 ### 3. Configure the Database Connection
--Azure SQL Database: Ensure your Azure SQL Database is set up.
--Connection String: Add the appsettings.json file in the project with your Azure SQL Database connection string.
+- Azure SQL Database: Ensure your Azure SQL Database is set up.
+- Connection String: Add the appsettings.json file in the project with your Azure SQL Database connection string.
 
-### 5. Run the Application Locally
+### 4. Run the Application Locally
 **To run the application on your local machine:**
 
--Press F5 in Visual Studio or click on the Start button.
--The application will launch in your default web browser
+- Press F5 in Visual Studio or click on the Start button.
+- The application will launch in your default web browser
+- 
+### 5. Publish the Application to Azure
+**To deploy the application to Azure:**
 
-### 4. Using the Application
-Access the Application: After deployment, you can access the application via the Azure URL.
-CRUD Operations: The application allows you to:
-Create new projects and clients.
-View and Read existing project and client data.
-Update project and client details.
-Delete projects and clients as necessary.
+- Right-click on the project in Solution Explorer and select Publish.
+- Choose Azure as the target, then select App Service.
+- Configure the App Service details (Resource Group, App Name, etc.) and click Publish.
+- After deployment, access your application using the Azure-provided URL
+
+### 6. Using the Application
+**Access the Application:** After deployment, you can access the application via the Azure URL.
+**CRUD Operations:** The application allows you to Create new projects and clients.
+- View and Read existing project and client data.
+- Update project and client details.
+- Delete projects and clients as necessary.
 
 
 **Reference Documentation:**
