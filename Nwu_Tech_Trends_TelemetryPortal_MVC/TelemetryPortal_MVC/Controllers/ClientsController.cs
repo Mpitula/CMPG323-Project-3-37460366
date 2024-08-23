@@ -7,34 +7,34 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using TelemetryPortal_MVC.Data;
 using TelemetryPortal_MVC.Models;
+using TelemetryPortal_MVC.Repository;
 
 namespace TelemetryPortal_MVC.Controllers
 {
     public class ClientsController : Controller
     {
-        private readonly TechtrendsContext _context;
-
-        public ClientsController(TechtrendsContext context)
+        private readonly IClientRepository _clientRepository;
+        public ClientsController(IClientRepository clientRepository)
         {
-            _context = context;
+            _clientRepository = clientRepository;
         }
 
         // GET: Clients
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Clients.ToListAsync());
+            var clients = await Task.Run(() => _clientRepository.GetAll());
+            return View(clients);
         }
 
         // GET: Clients/Details/5
-        public async Task<IActionResult> Details(Guid? id)
+        public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var client = await _context.Clients
-                .FirstOrDefaultAsync(m => m.ClientId == id);
+            var client = await Task.Run(() => _clientRepository.GetById(id.Value));
             if (client == null)
             {
                 return NotFound();
@@ -59,22 +59,21 @@ namespace TelemetryPortal_MVC.Controllers
             if (ModelState.IsValid)
             {
                 client.ClientId = Guid.NewGuid();
-                _context.Add(client);
-                await _context.SaveChangesAsync();
+                await Task.Run(() => _clientRepository.Add(client));
                 return RedirectToAction(nameof(Index));
             }
             return View(client);
         }
 
         // GET: Clients/Edit/5
-        public async Task<IActionResult> Edit(Guid? id)
+        public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var client = await _context.Clients.FindAsync(id);
+            var client = await Task.Run(() => _clientRepository.GetById(id.Value));
             if (client == null)
             {
                 return NotFound();
@@ -98,8 +97,7 @@ namespace TelemetryPortal_MVC.Controllers
             {
                 try
                 {
-                    _context.Update(client);
-                    await _context.SaveChangesAsync();
+                    await Task.Run(() => _clientRepository.Update(client));
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -118,15 +116,14 @@ namespace TelemetryPortal_MVC.Controllers
         }
 
         // GET: Clients/Delete/5
-        public async Task<IActionResult> Delete(Guid? id)
+        public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var client = await _context.Clients
-                .FirstOrDefaultAsync(m => m.ClientId == id);
+            var client = await Task.Run(() => _clientRepository.GetById(id.Value));
             if (client == null)
             {
                 return NotFound();
@@ -138,21 +135,21 @@ namespace TelemetryPortal_MVC.Controllers
         // POST: Clients/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(Guid id)
+        public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var client = await _context.Clients.FindAsync(id);
+            var client = await Task.Run(() => _clientRepository.GetById(id));
             if (client != null)
             {
-                _context.Clients.Remove(client);
+                await Task.Run(() => _clientRepository.Delete(id));
             }
 
-            await _context.SaveChangesAsync();
+            await Task.Run(() => _clientRepository.Delete(id));
             return RedirectToAction(nameof(Index));
         }
 
         private bool ClientExists(Guid id)
         {
-            return _context.Clients.Any(e => e.ClientId == id);
+            return _clientRepository.GetAll().Any(e => e.ClientId == id);
         }
     }
 }

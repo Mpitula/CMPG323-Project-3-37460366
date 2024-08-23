@@ -7,34 +7,35 @@ using Microsoft.AspNetCore.Mvc.Rendering;
 using Microsoft.EntityFrameworkCore;
 using TelemetryPortal_MVC.Data;
 using TelemetryPortal_MVC.Models;
+using TelemetryPortal_MVC.Repository;
 
 namespace TelemetryPortal_MVC.Controllers
 {
     public class ProjectsController : Controller
     {
-        private readonly TechtrendsContext _context;
+        private readonly IProjectRepository _projectRepository;
 
-        public ProjectsController(TechtrendsContext context)
+        public ProjectsController(IProjectRepository projectRepository)
         {
-            _context = context;
+            _projectRepository = projectRepository;
         }
 
         // GET: Projects
         public async Task<IActionResult> Index()
         {
-            return View(await _context.Projects.ToListAsync());
+            var projects = await Task.Run(() => _projectRepository.GetAll());
+            return View(projects);
         }
 
         // GET: Projects/Details/5
-        public async Task<IActionResult> Details(Guid? id)
+        public async Task<IActionResult> Details(int? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var project = await _context.Projects
-                .FirstOrDefaultAsync(m => m.ProjectId == id);
+            var project = await Task.Run(() => _projectRepository.GetById(id.Value));
             if (project == null)
             {
                 return NotFound();
@@ -59,22 +60,21 @@ namespace TelemetryPortal_MVC.Controllers
             if (ModelState.IsValid)
             {
                 project.ProjectId = Guid.NewGuid();
-                _context.Add(project);
-                await _context.SaveChangesAsync();
+                await Task.Run(() => _projectRepository.Add(project));
                 return RedirectToAction(nameof(Index));
             }
             return View(project);
         }
 
         // GET: Projects/Edit/5
-        public async Task<IActionResult> Edit(Guid? id)
+        public async Task<IActionResult> Edit(int? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var project = await _context.Projects.FindAsync(id);
+            var project = await Task.Run(() => _projectRepository.GetById(id.Value));
             if (project == null)
             {
                 return NotFound();
@@ -98,8 +98,7 @@ namespace TelemetryPortal_MVC.Controllers
             {
                 try
                 {
-                    _context.Update(project);
-                    await _context.SaveChangesAsync();
+                    await Task.Run(() => _projectRepository.Update(project));
                 }
                 catch (DbUpdateConcurrencyException)
                 {
@@ -118,15 +117,14 @@ namespace TelemetryPortal_MVC.Controllers
         }
 
         // GET: Projects/Delete/5
-        public async Task<IActionResult> Delete(Guid? id)
+        public async Task<IActionResult> Delete(int? id)
         {
             if (id == null)
             {
                 return NotFound();
             }
 
-            var project = await _context.Projects
-                .FirstOrDefaultAsync(m => m.ProjectId == id);
+            var project = await Task.Run(() => _projectRepository.GetById(id.Value));
             if (project == null)
             {
                 return NotFound();
@@ -138,21 +136,20 @@ namespace TelemetryPortal_MVC.Controllers
         // POST: Projects/Delete/5
         [HttpPost, ActionName("Delete")]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> DeleteConfirmed(Guid id)
+        public async Task<IActionResult> DeleteConfirmed(int id)
         {
-            var project = await _context.Projects.FindAsync(id);
+            var project = await Task.Run(() => _projectRepository.GetById(id));
             if (project != null)
             {
-                _context.Projects.Remove(project);
+                await Task.Run(() => _projectRepository.Delete(id));
             }
 
-            await _context.SaveChangesAsync();
             return RedirectToAction(nameof(Index));
         }
 
         private bool ProjectExists(Guid id)
         {
-            return _context.Projects.Any(e => e.ProjectId == id);
+            return _projectRepository.GetAll().Any(e => e.ProjectId == id);
         }
     }
 }
