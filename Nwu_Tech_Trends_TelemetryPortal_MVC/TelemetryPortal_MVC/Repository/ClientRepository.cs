@@ -6,10 +6,8 @@ namespace TelemetryPortal_MVC.Repository
 {
     public class ClientRepository : GenericRepository<Client>, IClientRepository
     {
-        protected readonly TechtrendsContext _context = new TechtrendsContext();
-        public ClientRepository(TechtrendsContext context)
+        public ClientRepository(TechtrendsContext context) : base(context)
         {
-            _context = context;
         }
 
         public IEnumerable<Client> GetAllClients()
@@ -43,6 +41,10 @@ namespace TelemetryPortal_MVC.Repository
                 _context.SaveChanges();
             }
         }
+        public Client GetClientByEmail(string email)
+        {
+            return _context.Clients.FirstOrDefault(c => c.PrimaryContactEmail == email);
+        }
     }
-
 }
+
