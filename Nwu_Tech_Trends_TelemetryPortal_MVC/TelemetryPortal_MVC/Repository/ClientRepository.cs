@@ -6,23 +6,43 @@ namespace TelemetryPortal_MVC.Repository
 {
     public class ClientRepository : GenericRepository<Client>, IClientRepository
     {
-        public ClientRepository(TechtrendsContext context) : base(context)
+        protected readonly TechtrendsContext _context = new TechtrendsContext();
+        public ClientRepository(TechtrendsContext context)
         {
-
+            _context = context;
         }
 
-        public Client GetClientByEmail(string email)
+        public IEnumerable<Client> GetAllClients()
         {
-            var client = _context.Set<Client>().FirstOrDefault(c => c.PrimaryContactEmail == email);
-            if (client == null)
+            return _context.Clients.ToList();
+        }
+
+        public Client GetClientById(int id)
+        {
+            return _context.Clients.Find(id);
+        }
+
+        public void AddClient(Client client)
+        {
+            _context.Clients.Add(client);
+            _context.SaveChanges();
+        }
+
+        public void UpdateClient(Client client)
+        {
+            _context.Clients.Update(client);
+            _context.SaveChanges();
+        }
+
+        public void DeleteClient(int id)
+        {
+            var client = _context.Clients.Find(id);
+            if (client != null)
             {
-                throw new InvalidOperationException($"Client with email {email} was not found.");
+                _context.Clients.Remove(client);
+                _context.SaveChanges();
             }
-            return client;
         }
-
-
     }
-
 
 }
