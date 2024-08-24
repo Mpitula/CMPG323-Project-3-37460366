@@ -265,3 +265,4 @@ C:\Users\aussc\Source\Repos\CMPG323-Project-3-37460366I\Nwu_Tech_Trends_Telemetr
 C:\Users\aussc\Source\Repos\CMPG323-Project-3-37460366I\Nwu_Tech_Trends_TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Release\net8.0\TelemetryPortal_MVC.pdb
 C:\Users\aussc\Source\Repos\CMPG323-Project-3-37460366I\Nwu_Tech_Trends_TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Release\net8.0\TelemetryPortal_MVC.genruntimeconfig.cache
 C:\Users\aussc\Source\Repos\CMPG323-Project-3-37460366I\Nwu_Tech_Trends_TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Release\net8.0\ref\TelemetryPortal_MVC.dll
+C:\Users\aussc\Source\Repos\CMPG323-Project-3-37460366I\Nwu_Tech_Trends_TelemetryPortal_MVC\TelemetryPortal_MVC\bin\Release\net8.0\appsettings.json

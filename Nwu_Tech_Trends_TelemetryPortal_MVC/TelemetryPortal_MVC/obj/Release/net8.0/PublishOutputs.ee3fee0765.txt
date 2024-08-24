@@ -1,5 +1,6 @@
 C:\Users\aussc\Source\Repos\CMPG323-Project-3-37460366I\Nwu_Tech_Trends_TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Release\net8.0\PubTmp\Out\TelemetryPortal_MVC.exe
 C:\Users\aussc\Source\Repos\CMPG323-Project-3-37460366I\Nwu_Tech_Trends_TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Release\net8.0\PubTmp\Out\appsettings.Development.json
+C:\Users\aussc\Source\Repos\CMPG323-Project-3-37460366I\Nwu_Tech_Trends_TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Release\net8.0\PubTmp\Out\appsettings.json
 C:\Users\aussc\Source\Repos\CMPG323-Project-3-37460366I\Nwu_Tech_Trends_TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Release\net8.0\PubTmp\Out\TelemetryPortal_MVC.dll
 C:\Users\aussc\Source\Repos\CMPG323-Project-3-37460366I\Nwu_Tech_Trends_TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Release\net8.0\PubTmp\Out\TelemetryPortal_MVC.runtimeconfig.json
 C:\Users\aussc\Source\Repos\CMPG323-Project-3-37460366I\Nwu_Tech_Trends_TelemetryPortal_MVC\TelemetryPortal_MVC\obj\Release\net8.0\PubTmp\Out\TelemetryPortal_MVC.pdb
