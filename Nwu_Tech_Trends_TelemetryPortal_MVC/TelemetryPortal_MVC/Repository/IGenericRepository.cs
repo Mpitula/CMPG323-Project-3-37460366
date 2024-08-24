@@ -4,7 +4,7 @@ namespace TelemetryPortal_MVC.Repository
 {
     public interface IGenericRepository<T> where T : class
     {
-        T GetById(int id);
+        T GetById(Guid id);
         IEnumerable<T> GetAll();
         IEnumerable<T> Find(Expression<Func<T, bool>> expression);
         void Add(T entity);
@@ -12,6 +12,6 @@ namespace TelemetryPortal_MVC.Repository
         void Remove(T entity);
         void RemoveRange(IEnumerable<T> entities);
         void Update(T entity);
-        void Delete(int id);
+        void Delete(Guid id);
     }
 }

@@ -34,6 +34,11 @@ namespace TelemetryPortal_MVC.Repository
             }
         }
 
+        public void Delete(Guid id)
+        {
+            throw new NotImplementedException();
+        }
+
         public IEnumerable<T> Find(Expression<Func<T, bool>> expression)
         {
             return _context.Set<T>().Where(expression).ToList();
@@ -52,6 +57,11 @@ namespace TelemetryPortal_MVC.Repository
                 throw new InvalidOperationException($"Entity of type {typeof(T).Name} with ID {id} was not found.");
             }
             return entity;
+        }
+
+        public T GetById(Guid id)
+        {
+            throw new NotImplementedException();
         }
 
         public void Remove(T entity)

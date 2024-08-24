@@ -1,0 +1,12 @@
+Referencing
+
+1. Microsoft Learn (2023) ‘Web API design best practices - Azure Architecture Center’. Available at: https://learn.microsoft.com/en-us/azure/architecture/best-practices/api-design (Accessed: 24 August 2024).
+2. Mitchell, A. (2024) ‘How to Design an API: An Expert Guide to Best Practices’, ExpertBeacon. Available at: https://expertbeacon.com/how-to-design-an-api-an-expert-guide-to-best-practices/ (Accessed: 24 August 2024).
+3. Toptal (2024) ‘Web API Design: 5 Best Practices to Know’. Available at: https://www.toptal.com/api-developers/5-golden-rules-for-designing-a-great-web-api (Accessed: 24 August 2024).
+4. Webflow (2024) ‘API development: The complete guide to development best practices’. Available at: https://webflow.com/blog/api-development (Accessed: 24 August 2024).
+5. Microsoft Learn (2023) ‘Dependency injection in ASP.NET Core’. Available at: https://learn.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection (Accessed: 24 August 2024).
+6. Microsoft Learn (2023) ‘Logging in .NET Core and ASP.NET Core’. Available at: https://learn.microsoft.com/en-us/aspnet/core/fundamentals/logging (Accessed: 24 August 2024).
+7. Microsoft Learn (2023) ‘Add Swagger to ASP.NET Core API’. Available at: https://learn.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle (Accessed: 24 August 2024).
+8. Microsoft Learn (2023) ‘Enable Cross-Origin Requests (CORS) in ASP.NET Core’. Available at: https://learn.microsoft.com/en-us/aspnet/core/security/cors (Accessed: 24 August 2024).
+9. Microsoft Learn (2023) ‘Health checks in ASP.NET Core’. Available at: https://learn.microsoft.com/en-us/aspnet/core/host-and-deploy/health-checks (Accessed: 24 August 2024).
+10. Microsoft Learn (2023) ‘ASP.NET Core fundamentals’. Available at: https://learn.microsoft.com/en-us/aspnet/core/fundamentals (Accessed: 24 August 2024).
