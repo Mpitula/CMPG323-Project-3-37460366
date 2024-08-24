@@ -15,7 +15,7 @@ namespace TelemetryPortal_MVC.Repository
             return _context.Clients.ToList();
         }
 
-        public Client GetClientById(int id)
+        public Client GetClientById(Guid id)
         {
             return _context.Clients.Find(id);
         }

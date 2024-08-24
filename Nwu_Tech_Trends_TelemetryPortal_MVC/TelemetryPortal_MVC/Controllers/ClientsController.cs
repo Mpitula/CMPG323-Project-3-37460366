@@ -65,6 +65,7 @@ namespace TelemetryPortal_MVC.Controllers
             return View(client);
         }
 
+
         // GET: Clients/Edit/5
         public async Task<IActionResult> Edit(int? id)
         {
