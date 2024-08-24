@@ -36,7 +36,12 @@ namespace TelemetryPortal_MVC.Repository
 
         public void Delete(Guid id)
         {
-            throw new NotImplementedException();
+            var entity = _context.Set<T>().Find(id);
+            if (entity != null)
+            {
+                _context.Set<T>().Remove(entity);
+                _context.SaveChanges();
+            }
         }
 
         public IEnumerable<T> Find(Expression<Func<T, bool>> expression)
