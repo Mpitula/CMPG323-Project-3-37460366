@@ -7,35 +7,28 @@
       "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repository\\clientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\repository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\repository\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repository\\iclientrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repository\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\repository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repository\\iprojectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\repository\\projectrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\data\\techtrendscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\data\\techtrendscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\controllers\\projectscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -46,19 +39,29 @@
       "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\controllers\\clientscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\.gitignore||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\models\\client.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\data\\techtrendscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|solutionrelative:telemetryportal_mvc\\data\\techtrendscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{41999BF9-9822-4C5E-A22C-CBBE210FC987}|TelemetryPortal_MVC\\TelemetryPortal_MVC.csproj|c:\\users\\aussc\\source\\repos\\cmpg323-project-3-37460366i\\nwu_tech_trends_telemetryportal_mvc\\telemetryportal_mvc\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -88,7 +91,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -100,45 +103,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Program.cs",
-              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Program.cs",
-              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Program.cs",
-              "RelativeToolTip": "TelemetryPortal_MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Repository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\IGenericRepository.cs",
+              "RelativeToolTip": "TelemetryPortal_MVC\\Repository\\IGenericRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T16:24:55.774Z",
+              "WhenOpened": "2024-08-23T21:12:13.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\appsettings.json",
-              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\appsettings.json",
-              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\appsettings.json",
-              "RelativeToolTip": "TelemetryPortal_MVC\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-23T17:31:55.758Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "GenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\GenericRepository.cs",
-              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Repository\\GenericRepository.cs",
-              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\GenericRepository.cs",
-              "RelativeToolTip": "TelemetryPortal_MVC\\Repository\\GenericRepository.cs",
-              "ViewState": "AgIAACcAAAAAAAAAAAAowDkAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T21:42:38.845Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
               "Title": "ProjectRepository.cs",
               "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\ProjectRepository.cs",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Repository\\ProjectRepository.cs",
@@ -151,46 +129,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ClientRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\ClientRepository.cs",
-              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Repository\\ClientRepository.cs",
-              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\ClientRepository.cs",
-              "RelativeToolTip": "TelemetryPortal_MVC\\Repository\\ClientRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T17:48:52.778Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\IGenericRepository.cs",
-              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Repository\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\IGenericRepository.cs",
-              "RelativeToolTip": "TelemetryPortal_MVC\\Repository\\IGenericRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T21:12:13.933Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "IClientRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\IClientRepository.cs",
-              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Repository\\IClientRepository.cs",
-              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\IClientRepository.cs",
-              "RelativeToolTip": "TelemetryPortal_MVC\\Repository\\IClientRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T22:41:32.922Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "IProjectRepository.cs",
               "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\IProjectRepository.cs",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Repository\\IProjectRepository.cs",
@@ -203,31 +142,141 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "ClientsController.cs",
-              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Controllers\\ClientsController.cs",
-              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Controllers\\ClientsController.cs",
-              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Controllers\\ClientsController.cs",
-              "RelativeToolTip": "TelemetryPortal_MVC\\Controllers\\ClientsController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAAAI4AAABDAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "IClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\IClientRepository.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Repository\\IClientRepository.cs",
+              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\IClientRepository.cs",
+              "RelativeToolTip": "TelemetryPortal_MVC\\Repository\\IClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T23:28:17.37Z"
+              "WhenOpened": "2024-08-23T22:41:32.922Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 1,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "TelemetryPortal_MVC\\Repository\\GenericRepository.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAYwAYAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T21:42:38.845Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClientRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\ClientRepository.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Repository\\ClientRepository.cs",
+              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\ClientRepository.cs",
+              "RelativeToolTip": "TelemetryPortal_MVC\\Repository\\ClientRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T17:48:52.778Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "ProjectsController.cs",
               "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Controllers\\ProjectsController.cs",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Controllers\\ProjectsController.cs",
               "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Controllers\\ProjectsController.cs",
               "RelativeToolTip": "TelemetryPortal_MVC\\Controllers\\ProjectsController.cs",
-              "ViewState": "AgIAAIIAAAAAAAAAAADwv5EAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAH0AAAAAAAAAAIAwwHcAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T00:32:00.439Z"
+              "WhenOpened": "2024-08-24T00:32:00.439Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
+              "Title": "ClientsController.cs",
+              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Controllers\\ClientsController.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Controllers\\ClientsController.cs",
+              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Controllers\\ClientsController.cs",
+              "RelativeToolTip": "TelemetryPortal_MVC\\Controllers\\ClientsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T23:28:17.37Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "TechtrendsContext.cs",
+              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Data\\TechtrendsContext.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Data\\TechtrendsContext.cs",
+              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Data\\TechtrendsContext.cs",
+              "RelativeToolTip": "TelemetryPortal_MVC\\Data\\TechtrendsContext.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAIA/wBEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T17:27:32.369Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\README.md",
+              "RelativeDocumentMoniker": "..\\README.md",
+              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\README.md",
+              "RelativeToolTip": "..\\README.md",
+              "ViewState": "AgIAACgAAAAAAAAAAAAmwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2024-08-23T16:53:50.584Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": ".gitignore",
+              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\.gitignore",
+              "RelativeDocumentMoniker": "..\\.gitignore",
+              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\.gitignore",
+              "RelativeToolTip": "..\\.gitignore",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-08-24T14:01:39.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\appsettings.json",
+              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\appsettings.json",
+              "RelativeToolTip": "TelemetryPortal_MVC\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-23T17:31:55.758Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Program.cs",
+              "RelativeToolTip": "TelemetryPortal_MVC\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-23T16:24:55.774Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
               "Title": "Microsoft.Managed.Core.targets",
               "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
               "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
@@ -240,18 +289,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 14,
-              "Title": "TechtrendsContext.cs",
-              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Data\\TechtrendsContext.cs",
-              "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Data\\TechtrendsContext.cs",
-              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Data\\TechtrendsContext.cs",
-              "RelativeToolTip": "TelemetryPortal_MVC\\Data\\TechtrendsContext.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAIwBkAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T17:27:32.369Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
               "Title": "Client.cs",
               "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Models\\Client.cs",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Models\\Client.cs",
@@ -263,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "_ViewStart.cshtml",
               "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
@@ -275,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "Project.cs",
               "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Models\\Project.cs",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Models\\Project.cs",
@@ -287,19 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "README.md",
-              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\README.md",
-              "RelativeDocumentMoniker": "..\\README.md",
-              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\README.md",
-              "RelativeToolTip": "..\\README.md",
-              "ViewState": "AgIAAAQAAAAAAAAAAAAmwBIAAAACAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-23T16:53:50.584Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Views\\Home\\Index.cshtml",
@@ -311,7 +336,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Views\\Projects\\Index.cshtml",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Views\\Projects\\Index.cshtml",
@@ -323,7 +348,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Views\\Clients\\Index.cshtml",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Views\\Clients\\Index.cshtml",
@@ -335,7 +360,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Views\\Shared\\_Layout.cshtml",
