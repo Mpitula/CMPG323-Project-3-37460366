@@ -61,7 +61,12 @@ namespace TelemetryPortal_MVC.Repository
 
         public T GetById(Guid id)
         {
-            throw new NotImplementedException();
+            var entity = _context.Set<T>().Find(id);
+            if (entity == null)
+            {
+                throw new InvalidOperationException($"Entity of type {typeof(T).Name} with ID {id} was not found.");
+            }
+            return entity;
         }
 
         public void Remove(T entity)
