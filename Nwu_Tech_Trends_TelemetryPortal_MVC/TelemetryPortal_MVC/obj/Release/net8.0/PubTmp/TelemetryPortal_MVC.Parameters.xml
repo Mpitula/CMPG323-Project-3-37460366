@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<parameters>
+  <parameter name="IIS Web Application Name" description="" value="NWUTechTrendsTelemetryPortalMVC" tags="IisApp">
+    <parameterEntry kind="ProviderPath" scope="IisApp" match="^C:\\Users\\aussc\\Source\\Repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\obj\\Release\\net8\.0\\PubTmp\\Out\\$" />
+  </parameter>
+</parameters>

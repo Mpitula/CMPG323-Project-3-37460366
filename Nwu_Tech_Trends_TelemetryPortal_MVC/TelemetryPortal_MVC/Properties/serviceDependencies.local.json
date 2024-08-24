@@ -3,6 +3,13 @@
     "mssql1": {
       "type": "mssql.local",
       "connectionId": "ConnectionStrings:DefaultConnection"
+    },
+    "mssql2": {
+      "serviceConnectorResourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.ServiceLinker/locations/southafricanorth/connectors/zaazralonempitula37460366.database.windo_27E66D5DDE",
+      "secretStore": "LocalSecretsFile",
+      "resourceId": "/subscriptions/[parameters('subscriptionId')]/resourceGroups/[parameters('resourceGroupName')]/providers/Microsoft.Sql/servers/zaazralonempitula37460366/databases/Alonempitula37460366",
+      "type": "mssql.azure",
+      "connectionId": "zaazralonempitula37460366.database.windows.net"
     }
   }
 }
