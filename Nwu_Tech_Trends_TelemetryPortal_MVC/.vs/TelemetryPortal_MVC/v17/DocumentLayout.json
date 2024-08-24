@@ -91,6 +91,14 @@
           "SelectedChildIndex": 5,
           "Children": [
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Microsoft.Managed.Core.targets",
@@ -100,8 +108,7 @@
               "RelativeToolTip": "..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\Roslyn\\Microsoft.Managed.Core.targets",
               "ViewState": "AgIAAK4AAAAAAAAAAAAUwL4AAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2024-08-24T01:10:50.321Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-24T01:10:50.321Z"
             },
             {
               "$type": "Document",
@@ -113,16 +120,7 @@
               "RelativeToolTip": "TelemetryPortal_MVC\\Controllers\\ProjectsController.cs",
               "ViewState": "AgIAAIIAAAAAAAAAAADwv5EAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-24T00:32:00.439Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+              "WhenOpened": "2024-08-24T00:32:00.439Z"
             },
             {
               "$type": "Document",
@@ -134,8 +132,7 @@
               "RelativeToolTip": "TelemetryPortal_MVC\\Controllers\\ClientsController.cs",
               "ViewState": "AgIAAEwAAAAAAAAAAAAAAI4AAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T23:28:17.37Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T23:28:17.37Z"
             },
             {
               "$type": "Document",
@@ -145,7 +142,7 @@
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Program.cs",
               "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Program.cs",
               "RelativeToolTip": "TelemetryPortal_MVC\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA7AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-23T16:24:55.774Z",
               "EditorCaption": ""
@@ -160,8 +157,7 @@
               "RelativeToolTip": "TelemetryPortal_MVC\\appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-08-23T17:31:55.758Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T17:31:55.758Z"
             },
             {
               "$type": "Document",
@@ -173,8 +169,7 @@
               "RelativeToolTip": "TelemetryPortal_MVC\\Repository\\GenericRepository.cs",
               "ViewState": "AgIAACcAAAAAAAAAAAAowDkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T21:42:38.845Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T21:42:38.845Z"
             },
             {
               "$type": "Document",
@@ -186,34 +181,31 @@
               "RelativeToolTip": "TelemetryPortal_MVC\\Repository\\ProjectRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T17:48:01.12Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T17:48:01.12Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "IProjectRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aussc\\Source\\Repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\IProjectRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\IProjectRepository.cs",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Repository\\IProjectRepository.cs",
-              "ToolTip": "C:\\Users\\aussc\\Source\\Repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\IProjectRepository.cs",
+              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\IProjectRepository.cs",
               "RelativeToolTip": "TelemetryPortal_MVC\\Repository\\IProjectRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABCAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T22:53:58.135Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T22:53:58.135Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
               "Title": "IGenericRepository.cs",
-              "DocumentMoniker": "C:\\Users\\aussc\\Source\\Repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\IGenericRepository.cs",
               "RelativeDocumentMoniker": "TelemetryPortal_MVC\\Repository\\IGenericRepository.cs",
-              "ToolTip": "C:\\Users\\aussc\\Source\\Repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\aussc\\source\\repos\\CMPG323-Project-3-37460366I\\Nwu_Tech_Trends_TelemetryPortal_MVC\\TelemetryPortal_MVC\\Repository\\IGenericRepository.cs",
               "RelativeToolTip": "TelemetryPortal_MVC\\Repository\\IGenericRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T21:12:13.933Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T21:12:13.933Z"
             },
             {
               "$type": "Document",
@@ -225,8 +217,7 @@
               "RelativeToolTip": "TelemetryPortal_MVC\\Repository\\IClientRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T22:41:32.922Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T22:41:32.922Z"
             },
             {
               "$type": "Document",
@@ -238,8 +229,7 @@
               "RelativeToolTip": "TelemetryPortal_MVC\\Repository\\ClientRepository.cs",
               "ViewState": "AgIAAAEAAAAAAAAAAAAuwAoAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T17:48:52.778Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T17:48:52.778Z"
             },
             {
               "$type": "Document",
@@ -254,10 +244,6 @@
               "WhenOpened": "2024-08-23T17:27:32.369Z"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
-            },
-            {
               "$type": "Document",
               "DocumentIndex": 11,
               "Title": "Client.cs",
@@ -267,8 +253,7 @@
               "RelativeToolTip": "TelemetryPortal_MVC\\Models\\Client.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T16:05:48.026Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T16:05:48.026Z"
             },
             {
               "$type": "Document",
@@ -292,8 +277,7 @@
               "RelativeToolTip": "TelemetryPortal_MVC\\Models\\Project.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAAAA8AAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-23T16:05:48.03Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T16:05:48.03Z"
             },
             {
               "$type": "Document",
@@ -305,8 +289,7 @@
               "RelativeToolTip": "..\\README.md",
               "ViewState": "AgIAAAQAAAAAAAAAAAAmwBIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
-              "WhenOpened": "2024-08-23T16:53:50.584Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-23T16:53:50.584Z"
             },
             {
               "$type": "Document",
